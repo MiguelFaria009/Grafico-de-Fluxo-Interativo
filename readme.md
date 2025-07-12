@@ -109,8 +109,8 @@ fig.update_layout(
 
 > O gráfico será exibido dinamicamente com suavidade e visual agradável:
 
-![Exemplo Streamgraph](https://raw.githubusercontent.com/plotly/datasets/master/images/streamgraph.png)
-<sub>*Imagem ilustrativa — substitua pela sua se quiser*</sub>
+![Exemplo Streamgraph](https://crm.comerciodosite.com.br/layouts/streamgraph.png)
+<sub>*Imagem ilustrativa*</sub>
 
 ## 📄 Licença
 
@@ -118,4 +118,4 @@ Este projeto é de uso livre para fins educacionais, acadêmicos ou pessoais. Vo
 
 ---
 
-Desenvolvido por Miguel Faria.
+Desenvolvido por Miguel Faria (Comércio do Site) (https://comerciodosite.com.br/).
