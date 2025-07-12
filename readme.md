@@ -30,8 +30,7 @@ Este projeto em Python cria um gráfico de fluxo interativo (streamgraph) utiliz
 Você pode salvar o código principal como `streamgraph.py` ou clonar seu repositório:
 
 ```bash
-git clone https://github.com/MiguelFaria009/Grafico-de-Fluxo-Interativo/blob/main/streamgraph.py
-cd streamgraph-interativo
+https://github.com/MiguelFaria009/Grafico-de-Fluxo-Interativo/blob/main/streamgraph.py
 ```
 
 ### Instale as dependências
